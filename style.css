@@ -1,0 +1,16 @@
+.copy_right_footter { position: fixed; color: white; 
+    bottom: 0;
+     width: 100%; 
+     background-color:grey;
+      line-height: 3; text-align: center; 
+    
+    }
+
+    .text_images_and_results img{
+        height:300px;
+        width:300px;
+    }
+
+    .text_images_and_results{
+        width: 700px;
+    }
